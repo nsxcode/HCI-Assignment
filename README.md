@@ -1,4 +1,4 @@
-# HCI-Assignment2
+# HCI-Assignment
 An assignment to creating an improved online classroom mobile application. 
 [Figma](https://www.figma.com/file/KQ8QBHDSHz7ivh8knnuwnJ/HCI-Assignment-by-Natalie?node-id=0%3A1)
 [Figma Prototype](https://www.figma.com/proto/KQ8QBHDSHz7ivh8knnuwnJ/HCI-Assignment-by-Natalie?node-id=2%3A2&scaling=scale-down&page-id=0%3A1&starting-point-node-id=2%3A2)
